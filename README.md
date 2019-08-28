@@ -1,2 +1,2 @@
 # playground_3
- This is a very basic React calculator.
+ This React app allows you to search for images using an external api.
